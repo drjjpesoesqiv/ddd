@@ -11,3 +11,5 @@ adjective
   :capable of being borne or endured
   :moderately good or agreeable :
 ```
+
+<p>API key generated at www.dictionaryapi.com/ using the collegiate resource.</p>
