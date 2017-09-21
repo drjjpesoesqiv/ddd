@@ -1,6 +1,6 @@
 # ddd
 
-defines words on at the command line
+defines words at the command line
 
 assuming both files are in a PATH directory
 ```
